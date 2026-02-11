@@ -25,12 +25,7 @@
 {"orderid":"ORD-1003","product":"Laptop 51","quantity":14,"price":1600.00,"MSRP":2000.00,"description":"Laptop with high quality features, model 51","category":"Computers","supplier":"TechSupply Co.","warehouse":"Warehouse C","discount":7},
 {"orderid":"ORD-1001","product":"Monitor 52","quantity":18,"price":360.00,"MSRP":450.00,"description":"Monitor with high quality features, model 52","category":"Peripherals","supplier":"DisplayWorld","warehouse":"Warehouse A","discount":5},
 {"orderid":"ORD-1002","product":"Keyboard 53","quantity":15,"price":98.00,"MSRP":125.00,"description":"Keyboard with high quality features, model 53","category":"Peripherals","supplier":"KeyMasters","warehouse":"Warehouse B","discount":0},
-{"orderid":"ORD-1003","product":"Mouse 54","quantity":20,"price":40.00,"MSRP":50.00,"description":"Mouse with high quality features, model 54","category":"Peripherals","supplier":"MouseHouse","warehouse":"Warehouse C","discount":3},
-{"orderid":"ORD-1001","product":"Headphones 55","quantity":9,"price":170.00,"MSRP":210.00,"description":"Headphones with high quality features, model 55","category":"Audio","supplier":"SoundCorp","warehouse":"Warehouse A","discount":6},
-{"orderid":"ORD-1002","product":"Webcam 56","quantity":13,"price":82.00,"MSRP":105.00,"description":"Webcam with high quality features, model 56","category":"Peripherals","supplier":"CamTech","warehouse":"Warehouse B","discount":0},
-{"orderid":"ORD-1003","product":"Power Bank 57","quantity":22,"price":62.00,"MSRP":80.00,"description":"Power Bank with high quality features, model 57","category":"Accessories","supplier":"BatteryCo","warehouse":"Warehouse C","discount":2},
-{"orderid":"ORD-1001","product":"External SSD 58","quantity":18,"price":160.00,"MSRP":200.00,"description":"External SSD with high quality features, model 58","category":"Storage","supplier":"DataStore","warehouse":"Warehouse A","discount":4},
-{"orderid":"ORD-1002","product":"Docking Station 59","quantity":17,"price":190.00,"MSRP":230.00,"description":"Docking Station with high quality features, model 59","category":"Accessories","supplier":"DockWorld","warehouse":"Warehouse B","discount":6}
+{"orderid":"ORD-1003","product":"Mouse 54","quantity":20,"price":40.00,"MSRP":50.00,"description":"Mouse with high quality features, model 54","category":"Peripherals","supplier":"MouseHouse","warehouse":"Warehouse C","discount":3}
     ]
 }
   
