@@ -1,4 +1,3 @@
-
 {
   resultSet: [
 {"orderid":"ORD-1002","product":"External SSD 98","quantity":21,"price":180.00,"MSRP":225.00,"description":"External SSD with high quality features, model 98","category":"Storage","supplier":"DataStore","warehouse":"Warehouse B","discount":4},
