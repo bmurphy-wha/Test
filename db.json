@@ -1,9 +1,5 @@
 {
   resultSet: [
-{"orderid":"ORD-1002","product":"External SSD 98","quantity":21,"price":180.00,"MSRP":225.00,"description":"External SSD with high quality features, model 98","category":"Storage","supplier":"DataStore","warehouse":"Warehouse B","discount":4},
-{"orderid":"ORD-1003","product":"Docking Station 99","quantity":19,"price":210.00,"MSRP":250.00,"description":"Docking Station with high quality features, model 99","category":"Accessories","supplier":"DockWorld","warehouse":"Warehouse C","discount":6},
-{"orderid":"ORD-1001","product":"Smartphone Stand 100","quantity":12,"price":42.00,"MSRP":52.00,"description":"Smartphone Stand with high quality features, model 100","category":"Accessories","supplier":"GadgetWorks","warehouse":"Warehouse A","discount":0},
-{"orderid":"ORD-1005","product":"Power Bank 97","quantity":26,"price":72.00,"MSRP":92.00,"description":"Power Bank with high quality features, model 97","category":"Accessories","supplier":"BatteryCo","warehouse":"Warehouse A","discount":2},
 {"orderid":"ORD-1005","product":"External SSD 98","quantity":21,"price":180.00,"MSRP":225.00,"description":"External SSD with high quality features, model 98","category":"Storage","supplier":"DataStore","warehouse":"Warehouse B","discount":4},
 {"orderid":"ORD-1005","product":"Docking Station 99","quantity":19,"price":210.00,"MSRP":250.00,"description":"Docking Station with high quality features, model 99","category":"Accessories","supplier":"DockWorld","warehouse":"Warehouse C","discount":6},
 {"orderid":"ORD-1005","product":"Smartphone Stand 100","quantity":12,"price":42.00,"MSRP":52.00,"description":"Smartphone Stand with high quality features, model 100","category":"Accessories","supplier":"GadgetWorks","warehouse":"Warehouse A","discount":0}
